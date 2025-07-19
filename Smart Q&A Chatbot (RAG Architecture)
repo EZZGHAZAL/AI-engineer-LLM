@@ -1,0 +1,11 @@
+### 1. 📄 Smart Q&A Chatbot (RAG Architecture)
+**Date:** May–June 2025  
+**Overview:**  
+Developed an intelligent chatbot using Azure AI Search and OpenAI that answers user queries based on uploaded PDFs. Integrated a PDF-to-UI pipeline and vector search to enhance answer accuracy and usability.  
+**Technologies:** Azure AI Search · OpenAI · LangChain · Streamlit  
+**Key Contributions:**  
+- Designed end-to-end PDF-based RAG architecture  
+- Achieved 90%+ answer accuracy  
+- Built a user-friendly interface for dynamic querying  
+
+---
